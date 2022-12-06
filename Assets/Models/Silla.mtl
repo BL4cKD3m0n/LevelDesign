@@ -1,0 +1,37 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Bronce_
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  C:\Users\sagit\Downloads\Maps\Bronce.jpg
+map_Bump  -bm 1.000000 C:\Users\sagit\Downloads\Maps\65_metal surface texture-seamless.jpg
+
+newmtl Gamusa_
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.035294 0.027451 0.019608
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  Map #2138388880
+map_refl  Map #2138388877
+map_Bump  -bm 1.000000 Map #2138388882
+
+newmtl Material_#2142151456
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.031373 0.031373 0.031373
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
